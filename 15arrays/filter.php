@@ -1,4 +1,7 @@
 <?php
+
+echo "array_filter <br>";
+
 function odd($var)
 {
     // returns whether the input integer is odd

@@ -1,4 +1,8 @@
 <?php
+
+echo "array_intersect <br>";
+
+
 $array1 = array("a" => "green", "red", "blue");
 $array2 = array("b" => "green", "yellow", "red");
 $result = array_intersect($array1, $array2);

@@ -1,4 +1,7 @@
 <?php
+
+echo "array_pad <br>";
+
 $input = array(12, 10, 9);
 
 $result = array_pad($input, 5, 0);

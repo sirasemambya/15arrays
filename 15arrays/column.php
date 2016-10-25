@@ -1,4 +1,6 @@
 <?php
+
+echo "column <br>";
 // Array representing a possible record set returned from a database
 $records = array(
     array(
